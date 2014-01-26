@@ -7,27 +7,24 @@ body {
 h1 {
     font-family: georgia, "serif";
     font-size: 3rem; /* 1 rem = 16 px */
-    font-weight: bolder
+    font-weight: bolder;
+    color: #800000;
+    border-top: 8px dotted #f0e68c;
+    border-bottom: 8px dotted #f0e68c;
+    text-shadow: #dcdcdc 2px 2px
 }
 h2 {
     font-family: georgia;
-    font-size: 1.5rem
+    font-size: 1.5rem;
+    color: #800000
 }
 h3 {
     font-family: georgia;
-    font-size: 1.5rem
+    font-size: 1.5rem;
+    color: #800000
 }
 hr {
     border: solid 2px #cc9;
-}
-h1 {
-    color: #800000
-}
-h2 {
-    color: #800000
-}
-h3 {
-    color: #800000
 }
 h4 {
     color: #800000
