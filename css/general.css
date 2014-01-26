@@ -2,7 +2,7 @@ html {
     font-family: arial, "sans-serif";
 }
 body {
-    background-color: #ffffcc;
+    background-color: #f5f5dc;
 }
 h1 {
     font-family: georgia, "serif";
@@ -19,4 +19,16 @@ h3 {
 }
 hr {
     border: solid 2px #cc9;
+}
+h1 {
+    color: #800000
+}
+h2 {
+    color: #800000
+}
+h3 {
+    color: #800000
+}
+h4 {
+    color: #800000
 }
